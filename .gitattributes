@@ -2,4 +2,4 @@
 * text=auto
 
 #Mark sql files as SQL
-*.sql linguist-language=SQL
+*.sql linguist-detectable=true
